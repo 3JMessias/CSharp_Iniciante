@@ -1,0 +1,15 @@
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\bin\Debug\net6.0\CSharp_Iniciante.exe
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\bin\Debug\net6.0\CSharp_Iniciante.deps.json
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\bin\Debug\net6.0\CSharp_Iniciante.runtimeconfig.json
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\bin\Debug\net6.0\CSharp_Iniciante.dll
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\bin\Debug\net6.0\ref\CSharp_Iniciante.dll
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\bin\Debug\net6.0\CSharp_Iniciante.pdb
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.csproj.AssemblyReference.cache
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.AssemblyInfoInputs.cache
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.AssemblyInfo.cs
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.csproj.CoreCompileInputs.cache
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.dll
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\ref\CSharp_Iniciante.dll
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.pdb
+C:\wrkspc\CSharp_Iniciante\CSharp_Iniciante\obj\Debug\net6.0\CSharp_Iniciante.genruntimeconfig.cache
